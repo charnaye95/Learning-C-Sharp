@@ -1,0 +1,14 @@
+Code Academy | C#
+
+What is C#?
+- this programming language can be used to make interactive websites, mobile apps, video games, augmented reality (AR), virtual reality (VR), desktop applications and back-end services --just to name a few.
+- Learning C# (pronounced “cee sharp”) can make you a better programmer:
+    In C# you can define the type of each data in a program. Assigning a type essentially tells a computer what operations can and cannot be performed on a piece of data. This style of coding helps programmers avoid a large class of errors that are common to Ruby and JavaScript.
+
+    In C#, programs are built—by defining objects that interact with each other, which makes code reusable and easy to manage.
+
+Running C#
+There are two panels: a text editor containing C# code and the console (or terminal), that shows output. 
+    
+    Console.WriteLine() is a command that prints text to a console. Whatever is in between the parentheses will be printed to the console!
+    Example: Console.WriteLine("Hello World!"); would print "Hello World!"
