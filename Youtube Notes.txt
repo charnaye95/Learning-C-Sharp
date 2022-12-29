@@ -1,0 +1,16 @@
+link: https://www.youtube.com/watch?v=67oWw9TanOk&t=436s
+
+- .Net is a framework. Its an all encompassing umbrella where you can build apps
+- C# is a 
+- Package Manager in .net is like node packages or npm for node.js
+- in .NET a solution your whole entire project for it to work well with Visual Studio, its going to be wrapped in whats called a solution. in any programming environment, you're going to have many projects underneath one solution.
+- .cs file is what you write code in.
+- to run your program, you click on the play button up top next to the name of the program. It will run the build and open up a console window where you will see the output.
+- Console.WriteLine("text"); is the syntax for something to be written to it. Just like console.log("text");
+- In C# / .NET you NEED semicolons after each statement.
+- When a build doesn't run correctly, a window will appear letting you know that there are build errors. It will ask if you want to run the last successful build. If you click "Yes" it will run the last successful build in the console. If you click "No", it will show an error list and a description of what's wrong.
+- You can layout windows how you like. You can click View in the top left and click on windows you would like to see while you program. Tip: In the search box type in "reset window layout" and it'll go back to the way it was originally. 
+
+Debugging
+- when you want to debug a line, click to the left of the line numbers and you should see circles as you hover over. Click on the line you want to debug and then run the build. It will open debugging windows (Diagnostic Tools, Autos, Call Stack) and explore them and see what information you can find out.
+- if you have questions about what something means in the code, you can hover over it, right click on it and click "Peek Definition" or "Go to Definition" or "Go to Implementation". Maybe "View all References" could help in debugging as well.
