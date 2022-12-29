@@ -12,3 +12,5 @@ There are two panels: a text editor containing C# code and the console (or termi
     
     Console.WriteLine() is a command that prints text to a console. Whatever is in between the parentheses will be printed to the console!
     Example: Console.WriteLine("Hello World!"); would print "Hello World!"
+
+    Console.ReadLine() captures text that a user types into the console. In JavaScript that's prompt()

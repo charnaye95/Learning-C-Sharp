@@ -1,3 +1,4 @@
+// This is for if I want to learn how to write C# in VS Code. But I'm currently learning in Visual Studio, where I can use .NET framework
 using System;
 
 namespace HelloWorld
