@@ -4,3 +4,14 @@ var testVar = "Naye Naye";
 Console.WriteLine(testVar);
 var input = Console.ReadLine();
 Console.WriteLine(input);
+
+string last = "Grier";
+bool maybe = true;
+double pi = 3.14;
+int fav = 7;
+Console.WriteLine(last);
+Console.WriteLine(maybe);
+Console.WriteLine(pi);
+Console.WriteLine(fav);
+
+

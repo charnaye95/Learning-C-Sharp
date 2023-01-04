@@ -1,15 +1,30 @@
-C:\Users\charn\OneDrive\Documents\Software Engineering Work\Learning-C-Sharp\HelloWorld\HelloWorld\bin\Debug\net6.0\HelloWorld.exe
-C:\Users\charn\OneDrive\Documents\Software Engineering Work\Learning-C-Sharp\HelloWorld\HelloWorld\bin\Debug\net6.0\HelloWorld.deps.json
-C:\Users\charn\OneDrive\Documents\Software Engineering Work\Learning-C-Sharp\HelloWorld\HelloWorld\bin\Debug\net6.0\HelloWorld.runtimeconfig.json
-C:\Users\charn\OneDrive\Documents\Software Engineering Work\Learning-C-Sharp\HelloWorld\HelloWorld\bin\Debug\net6.0\HelloWorld.dll
-C:\Users\charn\OneDrive\Documents\Software Engineering Work\Learning-C-Sharp\HelloWorld\HelloWorld\bin\Debug\net6.0\HelloWorld.pdb
-C:\Users\charn\OneDrive\Documents\Software Engineering Work\Learning-C-Sharp\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.csproj.AssemblyReference.cache
-C:\Users\charn\OneDrive\Documents\Software Engineering Work\Learning-C-Sharp\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\charn\OneDrive\Documents\Software Engineering Work\Learning-C-Sharp\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfoInputs.cache
-C:\Users\charn\OneDrive\Documents\Software Engineering Work\Learning-C-Sharp\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfo.cs
-C:\Users\charn\OneDrive\Documents\Software Engineering Work\Learning-C-Sharp\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.csproj.CoreCompileInputs.cache
-C:\Users\charn\OneDrive\Documents\Software Engineering Work\Learning-C-Sharp\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.dll
-C:\Users\charn\OneDrive\Documents\Software Engineering Work\Learning-C-Sharp\HelloWorld\HelloWorld\obj\Debug\net6.0\refint\HelloWorld.dll
-C:\Users\charn\OneDrive\Documents\Software Engineering Work\Learning-C-Sharp\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.pdb
-C:\Users\charn\OneDrive\Documents\Software Engineering Work\Learning-C-Sharp\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.genruntimeconfig.cache
-C:\Users\charn\OneDrive\Documents\Software Engineering Work\Learning-C-Sharp\HelloWorld\HelloWorld\obj\Debug\net6.0\ref\HelloWorld.dll
+C:/Users/charn/OneDrive/Documents/Software Engineering Work/Learning-C-Sharp/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld.exe
+C:/Users/charn/OneDrive/Documents/Software Engineering Work/Learning-C-Sharp/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld.deps.json
+C:/Users/charn/OneDrive/Documents/Software Engineering Work/Learning-C-Sharp/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld.runtimeconfig.json
+C:/Users/charn/OneDrive/Documents/Software Engineering Work/Learning-C-Sharp/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld.dll
+C:/Users/charn/OneDrive/Documents/Software Engineering Work/Learning-C-Sharp/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld.pdb
+C:/Users/charn/OneDrive/Documents/Software Engineering Work/Learning-C-Sharp/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.AssemblyReference.cache
+C:/Users/charn/OneDrive/Documents/Software Engineering Work/Learning-C-Sharp/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/charn/OneDrive/Documents/Software Engineering Work/Learning-C-Sharp/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfoInputs.cache
+C:/Users/charn/OneDrive/Documents/Software Engineering Work/Learning-C-Sharp/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfo.cs
+C:/Users/charn/OneDrive/Documents/Software Engineering Work/Learning-C-Sharp/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.CoreCompileInputs.cache
+C:/Users/charn/OneDrive/Documents/Software Engineering Work/Learning-C-Sharp/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.dll
+C:/Users/charn/OneDrive/Documents/Software Engineering Work/Learning-C-Sharp/HelloWorld/HelloWorld/obj/Debug/net6.0/refint/HelloWorld.dll
+C:/Users/charn/OneDrive/Documents/Software Engineering Work/Learning-C-Sharp/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.pdb
+C:/Users/charn/OneDrive/Documents/Software Engineering Work/Learning-C-Sharp/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.genruntimeconfig.cache
+C:/Users/charn/OneDrive/Documents/Software Engineering Work/Learning-C-Sharp/HelloWorld/HelloWorld/obj/Debug/net6.0/ref/HelloWorld.dll
+/Users/charnaye95/Documents/Career/Learning-C-Sharp/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld
+/Users/charnaye95/Documents/Career/Learning-C-Sharp/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld.deps.json
+/Users/charnaye95/Documents/Career/Learning-C-Sharp/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld.runtimeconfig.json
+/Users/charnaye95/Documents/Career/Learning-C-Sharp/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld.dll
+/Users/charnaye95/Documents/Career/Learning-C-Sharp/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld.pdb
+/Users/charnaye95/Documents/Career/Learning-C-Sharp/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.AssemblyReference.cache
+/Users/charnaye95/Documents/Career/Learning-C-Sharp/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/charnaye95/Documents/Career/Learning-C-Sharp/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/charnaye95/Documents/Career/Learning-C-Sharp/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfo.cs
+/Users/charnaye95/Documents/Career/Learning-C-Sharp/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/charnaye95/Documents/Career/Learning-C-Sharp/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.dll
+/Users/charnaye95/Documents/Career/Learning-C-Sharp/HelloWorld/HelloWorld/obj/Debug/net6.0/refint/HelloWorld.dll
+/Users/charnaye95/Documents/Career/Learning-C-Sharp/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.pdb
+/Users/charnaye95/Documents/Career/Learning-C-Sharp/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.genruntimeconfig.cache
+/Users/charnaye95/Documents/Career/Learning-C-Sharp/HelloWorld/HelloWorld/obj/Debug/net6.0/ref/HelloWorld.dll
